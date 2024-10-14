@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GroupSMS</string>
+    <string name="btnSend">SEND</string>
+    <string name="btnEditMessage">Edit Message</string>
+    <string name="btnDone">DONE</string>
+    <string name="tvEditMessageLabel">Enter your message here:</string>
+    <string name="EditPhoneLabel">Enter a Phone Number:</string>
+    <string name="txtPhone">Edit Num:</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnEditPhone">Edit Send To</string>
+    <string name="edit_num">Edit</string>
+    <string name="txt_edit_message">Press ADD to add new item</string>
+    <string name="btn_task">ADD</string>
+    <string name="btn_Cancel">Add New</string>
+    <string name="btn_update">Update Entry 1</string>
+
+</resources>
